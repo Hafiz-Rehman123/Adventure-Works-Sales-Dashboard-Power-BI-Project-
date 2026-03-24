@@ -62,6 +62,5 @@ The dashboard provides interactive insights into **product performance, regional
 ### 📈 Product & Trend Insights  
 ![Details](Screenshot%202026-03-24%20133653.png)  
 
----
 
 ✨ Developed using **Power BI** to transform raw business data into actionable insights.
